@@ -617,7 +617,7 @@
     - React.js
   made_by: Aravind
   made_by_url: https://twitter.com/aravindviewz
-- title: Chris Wray's Developer Portfolio
+  - title: Chris Wray's Developer Portfolio
   url: https://chriswray.dev
   description: This was my first project with Strapi and Nuxt! It was a lot of fun to work on and I learned so much.
   categories:
@@ -627,3 +627,13 @@
     - TailwindCSS
     - TailwindUI
   made_by: Chris Wray
+  - title: Wellrefresh
+  url: https://www.wellrefresh.com
+  description: My first health and wellness blog made with a headless cms.
+  categories:
+    - Blog
+  frontend:
+    - Nuxt.js
+    - SASS/CSS
+  made_by: Marvin Marinas
+  made_by_url: https://marvthe.dev
